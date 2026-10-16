@@ -218,7 +218,7 @@ The **Insurance Fraud Detection System** demonstrates the potential application 
 
 **Your Name**
 
-GitHub: [YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
+GitHub: [Shobbykay](https://github.com/Shobbykay)
 
 ## License
 
